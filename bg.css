@@ -1,0 +1,203 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.social li a{
+	display: inline-block;
+	text-decoration: none;
+}
+
+header{
+   
+    
+     left: 0;
+   
+    width: 100%;
+    
+    
+}
+
+ /* this is for logo design*/
+
+.logo{
+    margin-top: 18px; 
+    text-decoration: none;
+}
+.logo a{
+    text-decoration: none;
+    color: #444;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 600px;
+   
+    
+}
+.active1 a{
+
+  color: #44B4E1;
+}
+/* this is for logo design hover*/
+.logo a:hover{
+     text-decoration: none;
+}
+/* this is for navbar meenu*/
+.main-menu{
+    
+}
+.main-menu ul{}
+.main-menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+/* this is for menu list design*/
+.main-menu ul li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500px;
+    color: #444;
+    padding: 30px 5px;
+    display: block;
+}
+/* this is for menu list hover design*/
+.main-menu ul li a:hover{
+    text-decoration: none;
+    color: #44B4E1;
+   
+}
+/* this is for doropdown list  design*/
+.dropdown .show a{
+   padding: 5px 5px;
+}
+.main{
+  background-image: url(img/new.jpg);
+  width: 100%;
+  height: 300px;
+      background-size: cover;
+    background-position: center;
+}
+.main_in {
+  text-align: center;
+  color: black;
+  padding: 80px 40px;
+}
+.bg2{
+  margin-top: 60px;
+  border:1px solid gray;
+  margin-bottom: 60px;
+}
+.img img{
+  width: 100%;
+  height: 450px;
+}
+.body h1{
+text-align: center;
+color: #Eb4b3a;
+}
+.body span{
+  font-size: 20px;
+  padding: 20px;
+  color: #696969;
+}
+.body p{
+  font-size: 20px;
+}
+.content {
+  padding: 20px;
+}
+.content p{
+  font-size: 20px;
+  line-height: 24px;
+  color: #696969;
+}
+.content q{
+  font-size: 20px;
+   line-height: 20px;
+  color: #e84b3a;
+}
+.comment h1{
+  color: #EE257c;
+  line-height: 40px;
+}
+.comment_2 img{
+  border-radius: 100%;
+ float:left;
+     height: 80px;
+    width: 80px;
+}
+ .new{
+  float: right;
+  font-size: 10px;
+ }
+ .new i{
+  color: #FFC000;
+  font-size: 24px;
+ }
+ .new h1{
+  font-size: 14px;
+
+ }
+ .new p{
+  font-size: 16px;
+    color: #707070;
+    line-height: 24px;
+    margin: 0 0 1.75em;
+ }
+ .btn-danger{
+  padding: 10px 20px;
+  margin-bottom: 100px;
+ }
+ footer{
+  background-color: #121921;
+    color: rgba(255,255,255,0.7);
+    margin-top: 100px;
+}
+.follow{
+      margin-top: 15px;
+    animation-delay: 1.1s;
+    -webkit-animation-delay: 1.1s;
+    -moz-animation-delay: 1.1s;
+}
+.follow ul li:first-child{
+  color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-size: 0.8125rem;
+}
+.follow ul li{
+  display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+    font-size: 1.25rem;
+    margin-bottom: 5px;
+}
+.follow ul li i{
+  font-size: 25px;
+      margin-right: 10px;
+    color: #fff;
+}
+.follow ul li a:hover{
+color: white;
+}
+.use h5{
+ margin-left: 45px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.use ul li
+{
+  padding: 10px;
+}
+.use ul li a{
+  text-decoration: none;
+  color: #fff;
+}
+.contact ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 5px;
+}

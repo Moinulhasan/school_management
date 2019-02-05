@@ -1,0 +1,272 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.social li a{
+	display: inline-block;
+	text-decoration: none;
+}
+
+header{
+   
+    
+     left: 0;
+   
+    width: 100%;
+    
+    
+}
+
+ /* this is for logo design*/
+
+.logo{
+    margin-top: 18px; 
+    text-decoration: none;
+}
+.logo a{
+    text-decoration: none;
+    color: #444;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 600px;
+   
+    
+}
+.active1 a{
+
+  color: #44B4E1;
+}
+/* this is for logo design hover*/
+.logo a:hover{
+     text-decoration: none;
+}
+/* this is for navbar meenu*/
+.main-menu{
+    
+}
+.main-menu ul{}
+.main-menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+/* this is for menu list design*/
+.main-menu ul li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500px;
+    color: #444;
+    padding: 30px 5px;
+    display: block;
+}
+/* this is for menu list hover design*/
+.main-menu ul li a:hover{
+    text-decoration: none;
+    color: #44B4E1;
+   
+}
+/* this is for doropdown list  design*/
+.dropdown .show a{
+   padding: 5px 5px;
+}
+.main{
+  background-image: url(img/new.jpg);
+  width: 100%;
+  height: 300px;
+      background-size: cover;
+    background-position: center;
+}
+.main_in {
+  text-align: center;
+  color: black;
+  padding: 80px 40px;
+}
+.about
+{
+  margin-top: 70px;
+  margin-bottom: 70px;
+  
+}
+.about2{
+  margin-top: 40px;
+   margin-bottom: 70px;
+  
+}
+.write{
+  margin-top: 70px;
+}
+.write h1{
+  font-size: 34px;
+  color: #92278F;
+  
+  
+
+}
+.write p{
+  font-size: 18px;
+  letter-spacing: .5px;
+  
+}
+.btn-primary{
+  background-color: #7E007B;
+  
+  padding: 20px;
+  border: none;
+}
+.btn-primary:hover{
+  background-color: #92278F;
+  
+}
+.btn-danger{
+  background-color: #ECB200;
+  
+  padding: 20px;
+  border: none;
+}
+.btn-danger:hover{
+background-color: #ECB200;
+  
+
+}
+/*our testomoni*/
+ .counter{
+   background-color: #eaecf0;
+   text-align: center;
+   
+}
+.employes,.customer,.Order,.design{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.counter-count{
+    font-size: 18px;
+    background-color: #00b3e7;
+    border-radius: 50%;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    line-height: 92px;
+    width: 92px;
+    height: 92px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius:50%;
+    -O-border-radius:50%;
+    display: inline-block;
+}
+.employee-p,.customer-p,.order-p,.design-p{
+    font-size: 15px;
+    color: #000000;
+    line-height: 34px;
+}
+
+
+.meet{
+  background-color: #63bA4b;
+}
+.main_m{
+text-align: center;
+margin-top: 60px;
+}
+.main_m h1{
+  color: white;
+  line-height: 26px;
+}
+.main_m p{
+  color: white;
+  line-height: 24px;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+.details2 img{
+margin-left: 56px;
+height: 313px;
+}
+.person{
+  background-color: #92278F;
+  color: white;
+  padding: 10px;
+  
+
+height: 313px;
+
+
+}
+.details2{
+  margin-bottom: 30px;
+}
+.main_m h1{
+  margin-bottom: 30px;
+}
+.person h5{
+  font-size: 18px;
+}
+.person span{
+  font-size: 15px;
+}
+.person p{
+  font-size: 18px;
+  line-height: 24px;
+  margin-top: 30px;
+}
+.person a{
+  margin-top: 40px;
+  color: white;
+  text-decoration: none;
+}
+.person a:hover{
+  text-decoration: none;
+}
+footer{
+  background-color: #121921;
+    color: rgba(255,255,255,0.7);
+}
+.follow{
+      margin-top: 15px;
+    animation-delay: 1.1s;
+    -webkit-animation-delay: 1.1s;
+    -moz-animation-delay: 1.1s;
+}
+.follow ul li:first-child{
+  color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-size: 0.8125rem;
+}
+.follow ul li{
+  display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+    font-size: 1.25rem;
+    margin-bottom: 5px;
+}
+.follow ul li i{
+  font-size: 25px;
+      margin-right: 10px;
+    color: #fff;
+}
+.follow ul li a:hover{
+color: white;
+}
+.use h5{
+ margin-left: 45px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.use ul li
+{
+  padding: 10px;
+}
+.use ul li a{
+  text-decoration: none;
+  color: #fff;
+}
+.contact ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 5px;
+}
